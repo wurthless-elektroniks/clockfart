@@ -1,3 +1,7 @@
+# Historical repository
+
+[Continued development over here](https://github.com/wurthless-elektroniks/clock)
+
 # About this code
 
 [The Most Useless Clock in the World](https://github.com/wurthless-elektroniks/clock_v1) is being converted to run on cheaper hardware but the new software is still a work in progress. Until it is complete, the clocks I make will run this software.
